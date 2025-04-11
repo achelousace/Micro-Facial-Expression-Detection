@@ -2,7 +2,7 @@
 
 ![dataset-cover](https://github.com/user-attachments/assets/739ef6a4-59ef-44f9-9576-1931d8fe7a62)
 
-**Micro-Facial Expression Detection using CNN cassification for subtle emotion recognition from facial movements.**
+**Micro-Facial Expression Detection using CNN classification for subtle emotion recognition from facial movements.**
 
 A deep learning pipeline for detecting micro-facial expressions using Convolutional Neural Networks (CNN) techniques. This project aims to recognize subtle, involuntary facial expressions that are difficult to detect with the naked eye, enabling applications in emotion analysis, security, and human-computer interaction.
 
