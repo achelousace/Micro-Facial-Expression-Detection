@@ -41,4 +41,5 @@ Micro expressions can occur either as the result of conscious suppression or unc
 Notebook by **Mohammad Abu Ayyash** 
 
 Also on Kaggle:
-[[Kaggle notebook](ht](https://www.kaggle.com/code/mohammadabuayyash1/micro-facial-expression-detection)
+
+https://www.kaggle.com/code/mohammadabuayyash1/micro-facial-expression-detection-lie-truth
